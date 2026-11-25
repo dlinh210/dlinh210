@@ -2,8 +2,9 @@
 <h3 align="center">QA / Tester</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-QA%20%2F%20Tester-2ea44f?style=for-the-badge" alt="QA / Tester" />
-  <img src="https://img.shields.io/badge/Focus-Quality%20First-blue?style=for-the-badge" alt="Quality First" />
+  <a href="https://github.com/dlinh210">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2EA44F&center=true&vCenter=true&width=450&lines=QA+%2F+Tester;Quality+First" alt="QA / Tester - Quality First" />
+  </a>
 </p>
 
 ---
