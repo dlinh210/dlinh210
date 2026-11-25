@@ -15,16 +15,6 @@
 - 🤖 Currently testing web apps and AI features (RAG, document Q&A, AI summaries).
 - 🌱 Always learning new testing tools and automation techniques.
 
-### 🛠️ What I do
-
-| Area | Details |
-|------|---------|
-| **Manual testing** | Functional, regression, smoke, E2E, UI/UX |
-| **Test design** | Test plans, test cases, checklists from specs & prototypes |
-| **Bug tracking** | Clear bug reports, retest & verification of fixes |
-| **API testing** | Postman, checking requests/responses |
-| **AI testing** | Answer grounding, retrieval scope, summary accuracy |
-
 ### 🧰 Tools
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
@@ -33,12 +23,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dlinh210&show_icons=true&theme=default" alt="GitHub stats" />
-</p>
 
 ---
 
